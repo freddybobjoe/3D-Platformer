@@ -1458,5 +1458,5 @@ transform = Transform( -1, 0, -1.19209e-07, 0, 1, 0, 1.19209e-07, 0, -1, 4.00001
 transform = Transform( -1, 0, -1.19209e-07, 0, 1, 0, 1.19209e-07, 0, -1, 4.00002, 8, -2 )
 
 [node name="Wall6" parent="Dynamic/Dynamic-Cube2" instance=ExtResource( 5 )]
-transform = Transform( -1, 0, -1.19209e-07, 0, 1, 0, 1.19209e-07, 0, -1, 4.00001, -8, -2.00001 )
+transform = Transform( -1, 0, -1.19209e-07, 0, 1, 0, 1.19209e-07, 0, -1, 4.00001, -8, -2.00001  )
 
